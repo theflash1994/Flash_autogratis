@@ -36,7 +36,7 @@ Sono Flash_Dev, uno sviluppatore italiano di script FiveM. La mia passione è cr
 - `/resetveicolo` - [ADMIN] Gestisce i veicoli riscattati
 
 - ## Preview
-![Preview](https://imgur.com/a/8SkBmfJ.gif)
+ https://i.imgur.com/vW10t5g.gif
 
 ## Supporto e Assistenza
 Se riscontri problemi nell'utilizzo dello script o hai bisogno di aiuto, non esitare a contattarmi. Sono disponibile per fornire supporto e risolvere eventuali problemi che potresti incontrare.
